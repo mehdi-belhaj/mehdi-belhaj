@@ -38,7 +38,7 @@
 
   <ul>
     <li>
-     📚 I am a <code>intern</code> Full Stack Developer at 
+     📚 I am an <code>intern</code> Full Stack Developer at 
       <a href="https://www.linkedin.com/company/smart-transformation/">
         <img src="https://img.shields.io/static/v1?label=&message=Smart+Transformation&color=blue&style=plastic" alt="Smart-Transformation "/>
       </a>
