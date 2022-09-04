@@ -38,9 +38,10 @@
 
   <ul>
     <li>
-     📚 I am an <code>intern</code> Full Stack Developer at 
-      <a href="https://www.linkedin.com/company/smart-transformation/">
-        <img src="https://img.shields.io/static/v1?label=&message=Smart+Transformation&color=blue&style=plastic" alt="Smart-Transformation "/>
+     📚 I am a Full Stack <code>Developer</code> at 
+      <a href="https://www.nimbleways.com/">
+        <!-- <img src="https://img.shields.io/static/v1?label=&message=Nimbleways&color=orange&style=plastic" alt="Nimbleways "/> -->
+        <img src="https://www.nimbleways.com/static/4d5d6a0af9d2936461d86f869720dc89/logo_texte.svg" width="10%" alt="Nimbleways "/>
       </a>
       .
     </li>
@@ -49,7 +50,7 @@
     </li>
     <li>
      🌱 I’m currently learning: 
-      <code>Angular</code> and <code>Spring Framework</code>.
+      <code>Next.js</code> and <code>Spring-Boot</code>.
     </li>
     <li>
       🤓 Always 
@@ -97,6 +98,6 @@
     </a>
     <br>
     Last Edited: 
-    <img src="https://img.shields.io/static/v1?label=&message=17/02/2022&color=grey&style=plastic" alt="17/02/2022"/>
+    <img src="https://img.shields.io/static/v1?label=&message=01/09/2022&color=grey&style=plastic" alt="01/09/2022"/>
   </p>
 </section>
